@@ -1,0 +1,7 @@
+Nome completo: Gabriel Sales Dorea 
+
+Integrantes da atividade: Gabriel Sales Dorea, Nikolas Bendinelli Vison, Artur Salvador Moro, Lívia Ramos Campos, Vinícius Martins, Gabriel Siqueira, Victor Alhadas Mauricio Ferreira de Lima
+
+Curso: Jogos Digitais
+
+OBS: Olá prof, no git vc verá que em um commit a conta gassa87 também está lá, isso acontece pq tenho que trabalhar com dois gits no meu pc (um uso no meu trabalho e outra de forma pessoal, e por algum motivo sempre que inicio um repositório ele faz isso)
